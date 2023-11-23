@@ -1,0 +1,277 @@
+.Nadpis {
+    font-size: 100px;
+    text-align: center;
+    font-family: arial black;
+    color: #25312b;
+    margin-top: 80px
+}
+
+body {
+    background-color: #ae915b;
+}
+
+.start {
+    text-align: center;
+}
+
+.button_start {
+    border: solid;
+    border-radius: 35px;
+    font-size: 50px;
+    font-family: arial black;
+    margin-top: 60px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding:18px;
+}
+
+.button_start:hover {
+    background-color: #caca9f;
+    transition: 0.7s;
+}
+
+.info {
+    font-size: 20px;
+    font-family: arial black;
+    margin-top: 60px;
+    color: #25312b;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.info_button {
+    text-align: center;
+}
+
+.button_info {
+    border: solid;
+    border-radius: 25px;
+    font-size: 20px;
+    font-family: arial black;
+    margin-top: 20px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding:18px;
+}
+
+.button_info:hover {
+    background-color: #caca9f;
+    transition: 0.7s;
+}
+
+.text1 {
+    text-align: center;
+    font-family: Arial Black;
+    color:#25312b;
+    font-size: 20px;
+}
+
+.Al-Khatir {
+    border: solid;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family: arial black;
+    margin-top: 20px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 18px;
+    margin-left: 38%;
+}
+
+.Usa {
+    border: solid;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family: arial black;
+    margin-top: 20px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 18px;
+    margin-right: 33%;
+}
+
+.Al-Khatir:hover {
+    background-color: #caca9f;
+    transition: 0.7s;
+}
+
+.Usa:hover {
+    background-color: #caca9f;
+    transition: 0.7s;
+}
+
+.center {
+    text-align: center;
+}
+
+.zpět {
+    border: solid;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: arial black;
+    margin-top: 180px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 9px;
+}
+
+.pesaci {
+    border: solid;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family: arial black;
+    margin-top: 20px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 18px;
+}
+
+.vozidla {
+    border: solid;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family: arial black;
+    margin-top: 20px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 18px;
+}
+
+.obrnena {
+    border: solid;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family: arial black;
+    margin-top: 20px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 18px;
+}
+
+.informace {
+    text-align: center;
+    font-family: Arial Black;
+    color:#25312b;
+    font-size: 20px;
+}
+
+.info1 {
+    font-size: 20px;
+    font-family: arial black;
+    margin-top: 60px;
+    color: #25312b;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.rifleman {
+    border: solid;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family: arial black;
+    margin-top: 20px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 18px;
+}
+
+.arifleman {
+    border: solid;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family: arial black;
+    margin-top: 20px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 18px;
+}
+
+.grenader {
+    border: solid;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family: arial black;
+    margin-top: 20px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 18px;
+}
+
+.zpět1 {
+    border: solid;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: arial black;
+    margin-top: 100px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 9px;
+}
+
+.Nadpis2 {
+    font-size: 70px;
+    text-align: center;
+    font-family: arial black;
+    color: #25312b;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.Nadpis1 {
+    font-size: 100px;
+    text-align: center;
+    font-family: arial black;
+    color: #25312b;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+
+.podnadpis {
+    font-size: 40px;
+}
+
+.finfo {
+    font-size: 30px;
+    font-family: arial black;
+    margin-top: 60px;
+    color: #25312b;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.podpodnadpis {
+    font-size: 25px;
+}
+
+.zpět1 {
+    border: solid;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: arial black;
+    margin-top: 135px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 9px;
+}
+
+.zpět2 {
+    border: solid;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: arial black;
+    margin-top: 60px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 9px;
+}
+
+.zpět3 {
+    border: solid;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: arial black;
+    margin-top: 30px;
+    background-color: #b5b07f;
+    color: #25312b;
+    padding: 9px;
+}
